@@ -1,50 +1,51 @@
 # Minahil-Ahsan-
-# 👋 Hi, I'm Minahil Ahsan  
+# Hi, I'm Minahil Ahsan  
 
-🎓 Computer Engineering Student | 💻 Future Software Engineer  
-🚀 Passionate about Coding, Databases & Problem Solving  
+Computer Engineering Student
+Future Software Engineer  
+Passionate about Coding, Databases & Problem Solving  
 
 ---
 
-## 🧠 About Me  
+## About Me  
 
 I’m a Computer Engineering student focused on building strong fundamentals in programming, databases, and digital systems.  
 
 I started with logic building (flowcharts, logic gates) and now work on real-world projects using code and databases.  
 
-💡 I believe in:  
+I believe in:  
 - Learning by doing  
 - Writing clean and readable code  
 - Improving through debugging  
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
-### 💻 Languages  
+### Languages  
 - C#  
 - SQL  
 
-### 🧩 Core Concepts  
+### Core Concepts  
 - Object-Oriented Programming (OOP)  
 - Data Structures (Basic)  
 - Digital Logic Design  
 
-### 🗄️ Databases  
+### Databases  
 - MySQL  
 - ER Diagrams & DFD  
 
-### ⚙️ Tools  
+### Tools  
 - Git & GitHub  
 - Visual Studio  
 - WAMP Server  
 
 ---
 
-## 📂 Featured Projects  
+##  Featured Projects  
 
-### 🌱 Crop Disease Detection System  
-🔗 https://github.com/MinahilAhsan/crop-disease-detection  
+### Crop Disease Detection System  
+https://github.com/MinahilAhsan/crop-disease-detection  
 
 **Description:**  
 A Machine Learning-based system that detects crop diseases using image data.  
@@ -60,8 +61,8 @@ A Machine Learning-based system that detects crop diseases using image data.
 
 ---
 
-### 🗄️ Student Management System  
-🔗 https://github.com/MinahilAhsan/student-management-system  
+### Student Management System  
+https://github.com/MinahilAhsan/student-management-system  
 
 **Description:**  
 A database system to manage student records and marks.  
@@ -77,8 +78,8 @@ A database system to manage student records and marks.
 
 ---
 
-### ⚡ Logic Gate Simulator  
-🔗 https://github.com/MinahilAhsan/logic-gate-simulator  
+### Logic Gate Simulator  
+https://github.com/MinahilAhsan/logic-gate-simulator  
 
 **Description:**  
 Simulation of basic logic gates like AND, OR, NOT.  
@@ -89,7 +90,7 @@ Simulation of basic logic gates like AND, OR, NOT.
 
 ---
 
-## 🤝 Experience  
+##  Experience  
 
 ### Group Projects → Solo Growth  
 
@@ -99,7 +100,7 @@ Simulation of basic logic gates like AND, OR, NOT.
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinahilAhsan&show_icons=true&theme=tokyonight)
 
@@ -107,7 +108,7 @@ Simulation of basic logic gates like AND, OR, NOT.
 
 ---
 
-## 🎯 Current Goals  
+## Current Goals  
 
 - Improve problem-solving skills  
 - Learn advanced Data Structures  
@@ -116,13 +117,9 @@ Simulation of basic logic gates like AND, OR, NOT.
 
 ---
 
-## 📫 Contact Me  
+##  Contact Me  
 
-- 📧 minahilahsan7080@gmail.com  
-- 🌐 https://github.com/MinahilAhsan  
+-  minahilahsan7080@gmail.com  
+- https://github.com/MinahilAhsan  
 
 ---
-
-## ⚡ Fun Fact  
-
-> My first bug took 5 hours to fix… it was just a missing semicolon 😅
